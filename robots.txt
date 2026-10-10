@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://learncrew.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://learncrew.kr/sitemapx.xml
